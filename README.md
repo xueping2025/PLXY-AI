@@ -1,0 +1,1 @@
+The GitHub repository hosts only the source code. For the complete, ready-to-use PLXY-AI software package (including all components), please refer to our Zenodo archive: https://zenodo.org/doi/10.5281/zenodo.18668784
